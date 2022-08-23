@@ -1,4 +1,8 @@
 ### Hi there 👋
+### Hi there 👋
+### Hi there 👋
+### Important things should be repeated 3 times 🤔
+### Nothing, this is my Github Bye （886
 
 <!--
 **Pontuspts/Pontuspts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
