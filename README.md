@@ -1,8 +1,13 @@
-### Hi there 👋
-### Hi there 👋
-### Hi there 👋
-### Important things should be repeated 3 times 🤔
-### Nothing, this is my Github Bye （886
+![Header](https://user-images.githubusercontent.com/111867359/186139661-57229a82-b318-46a4-bf88-a19abb92fd07.png)
+
+
+<h1 align='center'>Hi there 👋         Hi there 👋       Hi there 👋</h1>
+<p align='center'>Important things should be repeated 3 times 🤔</p>
+
+<h1 align='center'><i>I'm pontus</i></h1>
+
+
+<p align='center'>Nothing, this is my Github Bye （886</p>
 
 <!--
 **Pontuspts/Pontuspts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
